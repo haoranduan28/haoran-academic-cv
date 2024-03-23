@@ -38,10 +38,10 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Durham University,UK
+      institution: Durham University, UK
       year: 2020-2024
     - course: Master in Data Science
-      institution: Newcastle University,UK
+      institution: Newcastle University, UK
       year: 2018-2019
 
 # Skills
@@ -59,7 +59,7 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Development
         description: ''
         percent: 100
         icon: database
@@ -91,10 +91,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: haoranduan28@gmail.com
+    link: mailto:haoranduan28@gmail.com
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/haoranD
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Dr Haoran Duan is a research scientist at Newcastle University with research interests including computer vision and multimodal learning. He has strong publications such as IEEE TIP, IJCV, IEEE TPAMI working with [Dr Yang Long](https://scholar.google.com/citations?user=IrkuknEAAAAJ&hl=en), [Professor Ling Shao](https://scholar.google.com/citations?hl=en&user=z84rLjoAAAAJ&view_op=list_works&sortby=pubdate) and [Professor Rajiv Ranjan](https://scholar.google.com/citations?user=Y_Y3fVEAAAAJ&hl=en).
+Dr Haoran Duan is a research scientist at Newcastle University with research interests including computer vision and multimodal learning. He has strong publications such as IEEE TIP, IJCV, IEEE TPAMI working with [Dr Yang Long](https://scholar.google.com/citations?user=IrkuknEAAAAJ&hl=en), [Professor Ling Shao](https://scholar.google.com/citations?hl=en&user=z84rLjoAAAAJ&view_op=list_works&sortby=pubdate) and [Professor Rajiv Ranjan](https://scholar.google.com/citations?user=Y_Y3fVEAAAAJ&hl=en). He is also interested in transfering the research outputs to products.
 {style="text-align: justify;"}
