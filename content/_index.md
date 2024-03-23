@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,12 +54,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Associate
+          company: Newcastle University
+          company_url: 'https://www.ncl.ac.uk/'
+          location: Newcastle Upon Tyne, United Kingdom
+          date_start: '2020-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +66,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Chief Scientists
+          company: SPARKEPOS
+          company_url: 'https://www.sparkepos.com/'
+          location: Newcastle Upon Tyne, United Kingdom
+          date_start: '2022-01-30'
+          date_end: ''
+          description: Intelligent Data Platform for AI training, AI-driven Staff/Stock/Strategy Optimization
     design:
       columns: '2'
   - block: accomplishments
