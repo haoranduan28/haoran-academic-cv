@@ -73,6 +73,11 @@ sections:
           date_start: '2022-01-30'
           date_end: ''
           description: Intelligent Data Platform for AI training, AI-driven Staff/Stock/Strategy Optimization
+        - title: Reviewer
+          company: CVPR, ECCV, ICCV, BMVC, IEEE TCSVT, IEEE TPAMI, IJCV, IEEE TASE, Scientific Report
+          date_start: '2018-06-30'
+          date_end: ''
+          description: Paper reviews
     design:
       columns: '2'
   - block: collection
