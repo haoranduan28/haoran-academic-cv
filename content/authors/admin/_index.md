@@ -43,6 +43,9 @@ education:
     - course: Master in Data Science
       institution: Newcastle University, UK
       year: 2018-2019
+    - course: Bachelor in Software Engineering
+      institution: China
+      year: 2014-2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -109,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Dr Haoran Duan is a research scientist at Newcastle University with research interests including computer vision and multimodal learning. He has strong publications such as IEEE TIP, IJCV, IEEE TPAMI working with [Dr Yang Long](https://scholar.google.com/citations?user=IrkuknEAAAAJ&hl=en), [Professor Ling Shao](https://scholar.google.com/citations?hl=en&user=z84rLjoAAAAJ&view_op=list_works&sortby=pubdate) and [Professor Rajiv Ranjan](https://scholar.google.com/citations?user=Y_Y3fVEAAAAJ&hl=en). He is also interested in transfering the research outputs to products.
+Dr Haoran Duan is a research scientist at Newcastle University with research interests including computer vision and multimodal learning. He has strong publications such as IEEE TIP, IJCV, IEEE TPAMI working with [Dr Yang Long](https://scholar.google.com/citations?user=IrkuknEAAAAJ&hl=en), [Professor Ling Shao](https://scholar.google.com/citations?hl=en&user=z84rLjoAAAAJ&view_op=list_works&sortby=pubdate) and [Professor Rajiv Ranjan](https://scholar.google.com/citations?user=Y_Y3fVEAAAAJ&hl=en). He is also interested in transfering the research outputs to products. 
 {style="text-align: justify;"}
