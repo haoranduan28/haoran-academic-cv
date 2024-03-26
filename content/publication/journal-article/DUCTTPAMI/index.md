@@ -8,9 +8,6 @@ authors:
 - Chris G Willcocks
 - Ling Shao
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2023-01-02T00:00:00Z"
 doi: "10.1109/TPAMI.2022.3233482"
 
@@ -24,6 +21,9 @@ publication: "IEEE Transactions on Pattern Analysis and Machine Intelligence "
 publication_short: ""
 
 abstract: It is uncertain whether the power of transformer architectures can complement existing convolutional neural networks. A few recent attempts have combined convolution with transformer design through a range of structures in series, where the main contribution of this paper is to explore a parallel design approach. While previous transformed-based approaches need to segment the image into patch-wise tokens, we observe that the multi-head self-attention conducted on convolutional features is mainly sensitive to global correlations and that the performance degrades when these correlations are not exhibited. We propose two parallel modules along with multi-head self-attention to enhance the transformer. For local information, a dynamic local enhancement module leverages convolution to dynamically and explicitly enhance positive local patches and suppress the response to less informative ones. For mid-level structure, a novel unary co-occurrence excitation module utilizes convolution to actively search the local co-occurrence between patches. The parallel-designed Dynamic Unary Convolution in Transformer (DUCT) blocks are aggregated into a deep architecture, which is comprehensively evaluated across essential computer vision tasks in image-based classification, segmentation, retrieval and density estimation. Both qualitative and quantitative results show our parallel convolutional-transformer approach with dynamic and unary convolution outperforms existing series-designed structures.
+
+# Summary. An optional shortened abstract.
+summary: Hybrid Transformer with convolution operations.
 
 featured: true
 
