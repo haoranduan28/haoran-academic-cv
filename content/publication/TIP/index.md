@@ -9,7 +9,7 @@ date: "2022-06-23T00:00:00Z"
 doi: "10.1109/TIP.2022.3184250"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-28T00:00:00Z"
+publishDate: "2022-03-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +27,7 @@ abstract: Multi-focus image fusion (MFIF) attempts to achieve an â€œall-focusedâ
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9805468'
@@ -68,20 +68,3 @@ slides: ""
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
-
-**cite** 
-```
-@ARTICLE{9805468,
-  author={Wang, Zeyu and Li, Xiongfei and Duan, Haoran and Zhang, Xiaoli},
-  journal={IEEE Transactions on Image Processing}, 
-  title={A Self-Supervised Residual Feature Learning Model for Multifocus Image Fusion}, 
-  year={2022},
-  volume={31},
-  number={},
-  pages={4527-4542},
-  keywords={Feature extraction;Task analysis;Superresolution;Image fusion;Training;Image edge detection;Representation learning;Multifocus image fusion;self-supervised learning;image super-resolution;deep learning},
-  doi={10.1109/TIP.2022.3184250}}
-```
-
-
-<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
