@@ -9,14 +9,16 @@ authors:
 - Yang Long
 - Rajiv Ranjan
 - Yefeng Zheng
-
 date: "2024-04-02T00:00:00Z"
 doi: "10.1016/j.ins.2024.120393"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2024-03-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Information Sciences "
@@ -27,19 +29,21 @@ abstract: While traditional feature engineering for Human Activity Recognition (
 # Summary. An optional shortened abstract.
 summary: Attention for semi-supervised human activity recognition
 
+tags:
+- Source Themes
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0020025524003062
-url_code: 
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_code: 
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,7 +57,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
