@@ -23,7 +23,7 @@ publication_short: "TIP"
 abstract: Multi-focus image fusion (MFIF) attempts to achieve an “all-focused” image from multiple source images with the same scene but different focused objects. Given the lack of multi-focus image sets for network training, we propose a self-supervised residual feature learning model in this paper. The model consists of a feature extraction network and a fusion module. We select image super-resolution as a pretext task in the MFIF field, which is supported by a new residual gradient prior discovered by our theoretical study for low- and high-resolution (LR-HR) image pairs, as well as for multi-focus images. In the pretext task, our network’s training set is LR-HR image pairs generated from natural images, and HR images can be regarded as pseudo-labels of LR images. In the fusion task, the trained network extracts residual features of multi-focus images firstly. Secondly, the fusion module, consisting of an activity level measurement and a new boundary refinement method, is leveraged for the features to generated decision maps. Experimental results, both subjective evaluations and objective evaluations, demonstrate that our approach outperforms other state-of-the-art fusion algorithms.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: self-supervised feature for MFIF
 
 tags:
 - Source Themes
