@@ -68,24 +68,3 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-<!-- {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}} -->
-
-**cite** 
-```
-@ARTICLE{10220114,
-  author={Miao, Xingyu and Bai, Yang and Duan, Haoran and Huang, Yawen and Wan, Fan and Xu, Xinxing and Long, Yang and Zheng, Yefeng},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={DS-Depth: Dynamic and Static Depth Estimation via a Fusion Cost Volume}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Costs;Estimation;Solid modeling;Optical flow;Dynamics;Cameras;Vehicle dynamics;Cost volume;Depth estimation;monocular},
-  doi={10.1109/TCSVT.2023.3305776}}
-```
-
-
-<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
