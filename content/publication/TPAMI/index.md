@@ -25,11 +25,11 @@ publication_short: "TPAMI"
 abstract: It is uncertain whether the power of transformer architectures can complement existing convolutional neural networks. A few recent attempts have combined convolution with transformer design through a range of structures in series, where the main contribution of this paper is to explore a parallel design approach. While previous transformed-based approaches need to segment the image into patch-wise tokens, we observe that the multi-head self-attention conducted on convolutional features is mainly sensitive to global correlations and that the performance degrades when these correlations are not exhibited. We propose two parallel modules along with multi-head self-attention to enhance the transformer. For local information, a dynamic local enhancement module leverages convolution to dynamically and explicitly enhance positive local patches and suppress the response to less informative ones. For mid-level structure, a novel unary co-occurrence excitation module utilizes convolution to actively search the local co-occurrence between patches. The parallel-designed Dynamic Unary Convolution in Transformer (DUCT) blocks are aggregated into a deep architecture, which is comprehensively evaluated across essential computer vision tasks in image-based classification, segmentation, retrieval and density estimation. Both qualitative and quantitative results show our parallel convolutional-transformer approach with dynamic and unary convolution outperforms existing series-designed structures.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Hybrid Transformer with help of convolution operations for various tasks.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10004645'
@@ -66,24 +66,3 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-<!-- {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}} -->
-
-**cite** 
-```
-@ARTICLE{10004645,
-  author={Duan, Haoran and Long, Yang and Wang, Shidong and Zhang, Haofeng and Willcocks, Chris G. and Shao, Ling},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Dynamic Unary Convolution in Transformers}, 
-  year={2023},
-  volume={45},
-  number={11},
-  pages={12747-12759},
-  keywords={Transformers;Task analysis;Convolution;Computer vision;Correlation;Computer architecture;Ducts;Attention;computer vision;convolution;dynamic;transformer;unary},
-  doi={10.1109/TPAMI.2022.3233482}}
-```
-
-
-<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
