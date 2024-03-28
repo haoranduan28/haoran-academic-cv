@@ -30,7 +30,7 @@ developed by OpenAI, which is capable of minute-level world-simulative abilities
 path. However, despite its notable successes, Sora still encounters various obstacles that need to be resolved. In this survey, we embark
 from the perspective of disassembling Sora in text-to-video generation, and conducting a comprehensive review of literature, trying to
 answer the question, From Sora What We Can See. Specifically, after basic preliminaries regarding the general algorithms are introduced,
-the literature is categorized from three mutually perpendicular dimensions： evolutionary generators, excellent pursuit, and realistic
+the literature is categorized from three mutually perpendicular dimensions evolutionary generators, excellent pursuit, and realistic
 panorama. Subsequently, the widely used datasets and metrics are organized in detail. Last but more importantly, we identify several
 challenges and open problems in this domain and propose potential future directions for research and development. A comprehensive list
 of text-to-video generation studies in this survey is available at https://github.com/soraw-ai/Awesome-Text-to-Video-Generation
