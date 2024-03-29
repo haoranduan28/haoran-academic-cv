@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Dr Haoran Duan is a research scientist at Newcastle University with research interests including computer vision, multimodal learning and internet of things. He is a member of IEEE and a member of China Computer Federation. He has strong publications in IEEE TIP, IJCV and IEEE TPAMI. He is also interested in transfering the research outputs to products. 
+Dr Haoran Duan is a research scientist at Newcastle University with research interests including computer vision, multimodal learning and internet of things. He is a member of IEEE. He has strong publications in IEEE TIP, IJCV and IEEE TPAMI. He is also interested in transfering the research outputs to products. 
 {style="text-align: justify;"}
